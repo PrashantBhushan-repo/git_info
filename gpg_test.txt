@@ -2,4 +2,6 @@
 gpg_test
 ram_aam_khata_hai
 sita_roti_banati_hai
+git : is disturbguted system which track local repo changes 
+github is cloud platform which host git repo and help with team collobration
 
